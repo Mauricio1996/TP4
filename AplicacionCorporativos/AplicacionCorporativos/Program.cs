@@ -16,7 +16,7 @@ namespace AplicacionCorporativos
             //Agus -> OK
             //Eli ->
             //Axel ->
-            //Mauri ->
+            //Mauri -> OK
         }
     }
 }
