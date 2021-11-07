@@ -13,7 +13,7 @@ namespace AplicacionCorporativos
             //esto es una prueba para verificar que el los cambios y actualizaciones de los usuarios funcionan
             //colocar al lado del nombre la palabra OK , guardar y actualizar el proyecto
             //Mate -> OK
-            //Agus ->
+            //Agus -> OK
             //Eli ->
             //Axel ->
             //Mauri ->
